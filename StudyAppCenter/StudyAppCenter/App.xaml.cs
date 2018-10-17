@@ -13,7 +13,6 @@ namespace StudyAppCenter
         public App()
         {
             InitializeComponent();
-            var x = ;
             MainPage = new MainPage();
         }
 
